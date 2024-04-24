@@ -7,7 +7,7 @@
 
 ***Welcome*** to the **PhoneFella** project! This repository is strictly used for the promotion of the **PhoneFella** Discord bot, which serves as the centerpiece to our Discord server.
 
-<h1 align="center">About PhoneFella Bot ℹ️</h1> 
+<h1 align="center">About PhoneFella ℹ️</h1> 
 
 **PhoneFella** is not just a bot; it's your gateway to a world of phone information. Dive into detailed insights on phone numbers, addresses, DNS records, and more with our feature-rich bot that can be found on our server!
 
