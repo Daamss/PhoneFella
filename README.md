@@ -24,7 +24,7 @@
 
 Embark on a journey with the **PhoneFella** Community Server. Interact with the bot, connect with fellow users, and stay ahead with the latest features and events.
 
-🔗 **Server Invite:** [https://discord.gg/GRbxk84SCx](https://discord.gg/GRbxk84SCx)
+<h1 align="center">🔗Server Invite: https://discord.gg/GRbxk84SCx</h1>
 
 ## <h1 align="center">Getting Started 🚀</h1>
 
